@@ -1,0 +1,13 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# binaries
+*.exe
+*.msi
