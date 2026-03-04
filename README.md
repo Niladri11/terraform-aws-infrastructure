@@ -38,8 +38,9 @@ Creates the main AWS infrastructure:
 - Terraform installed
 - AWS credentials configured
 
-
+```
 AWS configure
+```
 ---
 
 ## Step 1: Create Backend Infrastructure
