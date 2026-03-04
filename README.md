@@ -30,6 +30,14 @@ Creates the main AWS infrastructure:
 - S3 bucket
 
 ---
+Terraform
+   │
+   ├── VPC
+   │      └── Subnet
+   │             └── EC2
+   │
+   ├── Security Group
+   └── S3 Bucket
 
 ## Prerequisites
 
