@@ -30,6 +30,7 @@ Creates the main AWS infrastructure:
 - S3 bucket
 
 ---
+```
 Terraform
    │
    ├── VPC
@@ -38,7 +39,7 @@ Terraform
    │
    ├── Security Group
    └── S3 Bucket
-
+```
 ## Prerequisites
 
 - AWS account
