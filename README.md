@@ -1,5 +1,4 @@
 # Terraform-aws-infrastructure
-# Terraform AWS Infrastructure Automation
 
 This project demonstrates how to automate AWS infrastructure provisioning using Terraform.
 
